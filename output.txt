@@ -1,0 +1,42 @@
+Welcome to the game of NIM!
+===========================
+
+The person that takes the last marble out of the jar wins.
+Only 1-5 marbles may be removed from the jar per turn.
+
+Would you like to go first [Y/N]? y
+
+There are 35 marbles left in the jar.
+How many marbles do you want to take [1-5]? 5
+
+There are 30 marbles left in the jar.
+The computer takes 3 marbles.
+
+There are 27 marbles left in the jar.
+How many marbles do you want to take [1-5]? 3
+
+There are 24 marbles left in the jar.
+The computer takes 5 marbles.
+
+There are 19 marbles left in the jar.
+How many marbles do you want to take [1-5]? 1
+
+There are 18 marbles left in the jar.
+The computer takes 4 marbles.
+
+There are 14 marbles left in the jar.
+How many marbles do you want to take [1-5]? 2
+
+There are 12 marbles left in the jar.
+The computer takes 4 marbles.
+
+There are 8 marbles left in the jar.
+How many marbles do you want to take [1-5]? 2
+
+There are 6 marbles left in the jar.
+The computer takes 1 marbles.
+
+There are 5 marbles left in the jar.
+How many marbles do you want to take [1-5]? 5
+
+The humanoid clutches the match! Well played.
